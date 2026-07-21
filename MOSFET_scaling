@@ -1,0 +1,52 @@
+# Semiconductor Process Node History (1968 – 2025)
+
+A comprehensive reference table tracking the evolution of semiconductor manufacturing process nodes over time, from early micro-scale fabrication to sub-3nm nanosheet technology.
+
+## Overview
+
+In semiconductor manufacturing, a **process node** (also known as a technology node or process node generation) historically referred to the minimum feature size or gate length of transistors produced on an integrated circuit. While modern node names (e.g., 3 nm, 2 nm) serve more as commercial generation labels than exact physical gate dimensions, they reflect continuous density and efficiency improvements aligned with **Moore's Law**.
+
+---
+
+## Process Node Evolution Table
+
+| Year | Process Node (Original) | Process Node (nm) | Era / Key Technology Milestone |
+| :---: | :---: | :---: | :--- |
+| **1968** | 20 μm | 20,000 nm | Early PMOS / NMOS integrated circuits |
+| **1971** | 10 μm | 10,000 nm | Intel 4004 (First commercial microprocessor) |
+| **1974** | 6 μm | 6,000 nm | Intel 8080 |
+| **1977** | 3 μm | 3,000 nm | Intel 8086 / Motorola 68000 |
+| **1981** | 1.5 μm | 1,500 nm | CMOS technology transition |
+| **1984** | 1 μm | 1,000 nm | Sub-micron manufacturing threshold |
+| **1987** | 800 nm | 800 nm | Early 0.8 μm CMOS processes |
+| **1990** | 600 nm | 600 nm | Intel Pentium / PowerPC architectures |
+| **1993** | 350 nm | 350 nm | Deep UV (DUV) lithography introduction |
+| **1996** | 250 nm | 250 nm | 0.25 μm CMOS generation |
+| **1999** | 180 nm | 180 nm | Copper interconnect adoption |
+| **2001** | 130 nm | 130 nm | Low-k dielectric materials |
+| **2003** | 90 nm | 90 nm | Strained silicon technology |
+| **2005** | 65 nm | 65 nm | 300 mm wafer scaling |
+| **2007** | 45 nm | 45 nm | High-k Metal Gate (HKMG) transition |
+| **2009** | 32 nm | 32 nm | Second-generation HKMG |
+| **2010** | 28 nm | 28 nm | Long-lived planar node |
+| **2012** | 22 nm | 22 nm | First commercial FinFET (Intel Tri-Gate) |
+| **2014** | 14 nm | 14 nm | Mainstream FinFET scaling |
+| **2016** | 10 nm | 10 nm | High-density FinFET processes |
+| **2018** | 7 nm | 7 nm | Extreme Ultraviolet (EUV) lithography adoption |
+| **2020** | 5 nm | 5 nm | High-volume EUV commercial production |
+| **2022** | 3 nm | 3 nm | Transition to Nanosheet / GAAFET (Gate-All-Around) |
+| **2025** | 2 nm | 2 nm | GAAFET / RibbonFET with Backside Power Delivery (BSPDN) |
+
+---
+
+## Key Technological Architecture Shifts
+
+1. **Planar MOSFET Era (1968 – 2010s):** Standard two-dimensional transistor design scaling down to 28nm.
+2. **FinFET Era (2012 – 2022):** 3D transistor channel structure to control short-channel effects and current leakage.
+3. **GAAFET / Nanosheet Era (2022+):** Gate-All-Around architectures providing 4-sided gate control over channels for sub-3nm nodes.
+
+---
+
+## License
+
+This repository and document are shared under the [MIT License](LICENSE).
