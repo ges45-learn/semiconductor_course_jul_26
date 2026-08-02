@@ -8,3 +8,4 @@
 - https://eepower.com/technical-articles/basic-cmos-logic-gates/#
 - https://sky130-unofficial.readthedocs.io/en/latest/contents/libraries/sky130_fd_sc_hd/README.html
 - https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology
+- https://www.eetimes.com/intels-10nm-node-past-present-and-future/
