@@ -12,3 +12,4 @@
 - **https://www.youtube.com/watch?v=oDfnRf4GusM&list=PLZHcIYJIAiQiw-2BsC79s96H_VCcKR8xu**
 - https://www.youtube.com/watch?v=9bUvJ0fGfm0
 - https://lumenci.com/blogs/reram/
+- https://cramiumsolutions.com/technology/reram-overview/
