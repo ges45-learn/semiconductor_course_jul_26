@@ -13,3 +13,4 @@
 - https://www.youtube.com/watch?v=9bUvJ0fGfm0
 - https://lumenci.com/blogs/reram/
 - https://cramiumsolutions.com/technology/reram-overview/
+- https://semiengineering.com/single-vs-multi-patterning-euv/
