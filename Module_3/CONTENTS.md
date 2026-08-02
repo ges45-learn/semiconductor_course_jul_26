@@ -7,3 +7,4 @@
 - https://www.xecor.com/blog/pmos-vs-nmos
 - https://eepower.com/technical-articles/basic-cmos-logic-gates/#
 - https://sky130-unofficial.readthedocs.io/en/latest/contents/libraries/sky130_fd_sc_hd/README.html
+- https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology
