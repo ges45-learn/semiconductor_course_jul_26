@@ -1,4 +1,13 @@
-# Module 3: Creating circuits from materials 
+# Module 3: Creating circuits from materials
+
+## 3.1 Goals 
+1. Explore the designs of logic circuits and memories using semiconductor transistors
+2. Observe the manufacturing process for creating transistors and interconnect structures
+3. Evaluate new, advanced transistor structures like FinFET
+
+## 3.2 Discussion: define a transistor 
+
+## 3.3 
 
 
 #### Useful links
