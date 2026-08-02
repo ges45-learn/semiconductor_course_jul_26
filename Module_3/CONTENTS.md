@@ -10,3 +10,4 @@
 - https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology
 - https://www.eetimes.com/intels-10nm-node-past-present-and-future/
 - **https://www.youtube.com/watch?v=oDfnRf4GusM&list=PLZHcIYJIAiQiw-2BsC79s96H_VCcKR8xu**
+- https://www.youtube.com/watch?v=9bUvJ0fGfm0
