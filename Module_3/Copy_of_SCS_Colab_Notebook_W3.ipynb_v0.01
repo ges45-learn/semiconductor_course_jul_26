@@ -1,15 +1,15 @@
 {
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/ges45-learn/semiconductor_course_matthew_tang/blob/main/Module_3/Copy_of_SCS_Colab_Notebook_W3.ipynb_v0.01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
+{
+  "cell_type": "markdown",
+  "metadata": {
+    "id": "view-in-github",
+    "colab_type": "text"
+  },
+  "source": [
+    "<a href=\"https://colab.research.google.com/github/ges45-learn/semiconductor_course_matthew_tang/blob/main/Module_3/Copy_of_SCS_Colab_Notebook_W3.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+  ]
+},
     {
       "cell_type": "markdown",
       "source": [
