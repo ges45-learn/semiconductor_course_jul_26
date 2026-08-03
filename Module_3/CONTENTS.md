@@ -59,4 +59,4 @@
 - https://lumenci.com/blogs/reram/
 - https://cramiumsolutions.com/technology/reram-overview/
 - https://semiengineering.com/single-vs-multi-patterning-euv/
-- https://semiengineering.com/single-vs-multi-patterning-euv/
+
