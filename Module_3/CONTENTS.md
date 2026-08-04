@@ -35,6 +35,8 @@
 - What materials are commonly used for interconnect layers in semiconductor manufacturing?
 
 ## 3.11 Advanced transistor structures: FinFET - operations, manufacturing and limitations 
+<img width="950" height="713" alt="3dmosfet_labelled" src="https://github.com/user-attachments/assets/fefa6840-4b6d-4bf8-9aa4-69c205460287" />
+
 
 ## 3.12 Emerging memories: resistive random-access memory (ReRAM)
 
@@ -59,4 +61,6 @@
 - https://lumenci.com/blogs/reram/
 - https://cramiumsolutions.com/technology/reram-overview/
 - https://semiengineering.com/single-vs-multi-patterning-euv/
+
+- 
 
